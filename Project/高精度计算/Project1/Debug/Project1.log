@@ -1,0 +1,5 @@
+﻿  List.cpp
+C:\Users\Ye\source\repos\高精度计算\Project1\List.cpp(165,7): warning C4101: “p3”: 未引用的局部变量
+C:\Users\Ye\source\repos\高精度计算\Project1\List.cpp(94): warning C4715: “getValue”: 不是所有的控件路径都返回值
+C:\Users\Ye\source\repos\高精度计算\Project1\List.cpp(123): warning C4715: “Listcmp”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\Ye\source\repos\高精度计算\Project1\Debug\Project1.exe
